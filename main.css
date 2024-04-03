@@ -7,6 +7,18 @@ h1 {
 .professor{
     color: black; text-align: center;
 }
-#curso {
+#curso { 
     text-align:center;
+}
+img {
+    width: 400px;
+    height: 400px;
+}
+.title{
+    text-align: center;
+}
+.pipi{
+    background-color: blueviolet;
+    font-size: xx-large;
+    text-align: center;
 }
