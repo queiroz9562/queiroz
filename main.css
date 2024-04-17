@@ -1,24 +1,57 @@
-p { font-size: x-large;
+p {
+    
+    font-size: 40px;
+    text-align: center;
 
 }
 h1 {
     background-color: black; color: aquamarine;
 }
-.professor{
-    color: black; text-align: center;
+
+.borda{
+    margin : 500px red;
 }
-#curso { 
-    text-align:center;
-}
-img {
+
+.supernatural-img {
     width: 400px;
     height: 400px;
+    align-items: center;
 }
 .title{
     text-align: center;
+    padding-left: 20 px;
+    padding-top: 20 px;
 }
-.pipi{
-    background-color: blueviolet;
-    font-size: xx-large;
+ 
+h2 {
+    font-family: sans-serif;
+    font-size: 20 px; 
+}
+h3 {
+    font-family:sans-serif ;
+    font-size: 20 px;
+}
+h4 {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h5  {
+    font-family: sans-serif;
+    font-size: 30 px;
+}
+h6{
+font-family: sans-serif;
+font-size: 20px;
+}
+h1{
+
+    padding-left: 90px;
     text-align: center;
+    
 }
+ body{
+    background-color: #ded261;
+ }
+ 
+
+    
