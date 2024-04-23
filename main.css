@@ -1,57 +1,69 @@
 p {
-    
-    font-size: 40px;
-    text-align: center;
+
+   font-size: 20px;
+   text-align: center;
 
 }
+
 h1 {
-    background-color: black; color: aquamarine;
-}
-
-.borda{
-    margin : 500px red;
+   background-color: #AC2323;
+   color: #403535;
 }
 
 .supernatural-img {
-    width: 400px;
-    height: 400px;
-    align-items: center;
-}
-.title{
-    text-align: center;
-    padding-left: 20 px;
-    padding-top: 20 px;
-}
- 
-h2 {
-    font-family: sans-serif;
-    font-size: 20 px; 
-}
-h3 {
-    font-family:sans-serif ;
-    font-size: 20 px;
-}
-h4 {
-    font-family: sans-serif;
-    font-size: 20px;
-}
-h5  {
-    font-family: sans-serif;
-    font-size: 30 px;
-}
-h6{
-font-family: sans-serif;
-font-size: 20px;
-}
-h1{
+   width: 250px;
+   height: 250px;
 
-    padding-left: 90px;
-    text-align: center;
-    
 }
- body{
-    background-color: #ded261;
- }
- 
 
-    
+.title {
+   text-align: center;
+}
+
+
+h1 {
+   text-align: center;
+}
+
+body {
+   background-color: #ded261;
+}
+
+.dark {
+   width: 250px;
+   height: 250px;
+}
+
+.the {
+   width: 250px;
+   height: 250px;
+}
+
+.elite {
+   width: 250px;
+   height: 250px;
+}
+
+.euphoria {
+   width: 250px;
+   height: 250px;
+}
+
+
+table td,
+table th {
+   /*border: 30px solid;*/
+   background-color: rgb(108, 17, 17);
+   padding: 10px;
+   background-color: #ded261;
+   border-right: 2px solid;
+}
+
+.texto-do-filme { 
+   background-color: #ded261;
+   padding: 30px solid;
+}
+
+.texto1 {
+   color: #80B141;
+}
